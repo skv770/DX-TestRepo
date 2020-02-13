@@ -14,4 +14,11 @@
         <shortDescription>AC133</shortDescription>
         <value>1</value>
     </labels>
+    <labels>
+        <fullName>Bl</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Bl</shortDescription>
+        <value>1</value>
+    </labels>
 </CustomLabels>
