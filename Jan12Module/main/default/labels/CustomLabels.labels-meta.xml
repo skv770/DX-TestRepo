@@ -29,6 +29,20 @@
         <value>511</value>
     </labels>
     <labels>
+        <fullName>ANA_CL_Approved</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ANA_CL_Approved</shortDescription>
+        <value>Approved</value>
+    </labels>
+    <labels>
+        <fullName>ANA_CL_CompRequfields</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ANA_CL_CompRequfields</shortDescription>
+        <value>Complete required fields prior to submitting for approval</value>
+    </labels>
+    <labels>
         <fullName>Bl</fullName>
         <language>en_US</language>
         <protected>true</protected>
