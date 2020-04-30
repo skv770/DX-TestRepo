@@ -23,13 +23,35 @@
         <members>ACL5</members>
         <members>ANA_CL_Approved</members>
         <members>ANA_CL_CompRequfields</members>
+        <members>AnthemSubrogationEmail1</members>
+        <members>AnthemSubrogationEmail2</members>
+        <members>BPD_Master_Duplicate_Record_Type</members>
         <members>Bl</members>
+        <members>CDHPISGLink_Part1</members>
         <members>N12</members>
         <name>CustomLabel</name>
     </types>
     <types>
         <members>Dbj1__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>SharedDocuments</members>
+        <members>SharedDocuments/Anthem_Letterhead</members>
+        <members>SharedDocuments/Anthem_Logo</members>
+        <members>SharedDocuments/New_Anthem_Logo</members>
+        <members>VisitOps__VisitOps</members>
+        <members>VisitOps__VisitOps/VisitOps__AnalyticReportLogo</members>
+        <members>VisitOps__VisitOps/VisitOps__Contact_Information_for_Footer</members>
+        <members>VisitOps__VisitOps/VisitOps__NameBadge_Logo</members>
+        <members>VisitOps__VisitOps/VisitOps__Survey_Footer</members>
+        <members>VisitOps__VisitOps/VisitOps__Survey_Logo</members>
+        <members>VisitOps__VisitOps/VisitOps__TentCardLeft_Image</members>
+        <members>VisitOps__VisitOps/VisitOps__TentCardRight_Image</members>
+        <members>VisitOps__VisitOps/VisitOps__VisitForce_App_Icon</members>
+        <members>VisitOps__VisitOps/VisitOps__VisitOps_Logo</members>
+        <members>VisitOps__VisitOps/VisitOps__VisitOps_Logo_For_App</members>
+        <name>Document</name>
     </types>
     <types>
         <members>ACE_Broker_Managers</members>
