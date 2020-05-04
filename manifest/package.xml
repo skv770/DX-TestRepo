@@ -5,6 +5,7 @@
         <members>A0</members>
         <members>A000</members>
         <members>A0001</members>
+        <members>A0071</members>
         <members>A025</members>
         <members>A027</members>
         <members>A30</members>
@@ -51,6 +52,10 @@
         <members>VisitOps__VisitOps/VisitOps__VisitOps_Logo</members>
         <members>VisitOps__VisitOps/VisitOps__VisitOps_Logo_For_App</members>
         <name>Document</name>
+    </types>
+    <types>
+        <members>ARProfile1</members>
+        <name>Profile</name>
     </types>
     <types>
         <members>Dbj1__c.Dbj_RC1</members>
