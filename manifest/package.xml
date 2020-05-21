@@ -9,6 +9,9 @@
         <members>A025</members>
         <members>A027</members>
         <members>A30</members>
+        <members>a_saiclass</members>
+        <members>b_saiclass</members>
+        <members>c_saiclass</members>
         <name>ApexClass</name>
     </types>
     <types>
