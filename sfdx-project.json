@@ -1,16 +1,26 @@
 {
-  "packageDirectories" : [ {
-    "path" : "Jan12Module",
-    "default" : true,
-    "package" : "Jan12Module",
-    "versionName" : "Jan12Module",
-    "versionNumber" : "1.0.0.0"
-  } ],
-  "namespace" : "",
-  "sfdcLoginUrl" : "https://login.salesforce.com",
-  "sourceApiVersion" : "47.0",
-  "packageAliases" : {
-    "Jan12Module" : "0Ho2v000000blgwCAA",
-    "Jan12Module@1.0.0.0" : "04t2v0000079406AAA"
-  }
+    "packageDirectories": [
+        {
+            "path": "Jan12Module",
+            "default": true,
+            "package": "Jan12Module",
+            "versionName": "Jan12Module",
+            "versionNumber": "1.0.0.0"
+        },
+        {
+            "path": "Jan12Module",
+            "package": "test_koushik",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "47.0",
+    "packageAliases": {
+        "Jan12Module": "0Ho2v000000blgwCAA",
+        "Jan12Module@1.0.0.0": "04t2v0000079406AAA",
+        "test_koushik": "0Ho2x000000Gn8ICAS"
+    }
 }
